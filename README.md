@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Gideon Kamau | Laboratory Portfolio</title>
+  <title>GideonKamau | Laboratory Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -37,7 +37,7 @@
 <body>
 
   <header>
-    <h1>Kamau</h1>
+    <h1>Gideon Kamau</h1>
     <p>Medical Microbiology | Laboratory Research</p>
   </header>
 
@@ -69,7 +69,7 @@
 
   <section>
     <h2>Contact</h2>
-    <p>Email: yourname@email.com</p>
+    <p>Email: giddyk160@email.com</p>
     <p>LinkedIn: <a href="https://www.linkedin.com/in/kamau-dev" target="_blank">linkedin.com/in/kamau-dev</a></p>
   </section>
 
